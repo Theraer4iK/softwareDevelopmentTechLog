@@ -1,0 +1,960 @@
+commit a9c35849cc757dcb45ac2bc231214cd5dbd7c688
+Author: Vlad <vlad5077@ukr.net>
+Date:   Fri Sep 27 19:08:03 2024 +0300
+
+    add file for io23 group
+
+commit 293541dedf5ddb104aaf117c4f985ca7f0ca8f05
+Author: Vlad <vlad5077@ukr.net>
+Date:   Thu Sep 19 09:12:03 2024 +0300
+
+    add changes for io23 group
+
+commit 89c7d1f313326d64e1bc8ad426c1054c9ba1e133
+Author: Kateryna <demianenko.kateruna@lll.kpi.ua>
+Date:   Tue Sep 17 15:52:30 2024 +0300
+
+    Added file for io25 and wrote my info
+
+commit 2f42d7ca05dd292d674df48f045019234ef31a86
+Merge: 381f4a0 dec7e8f
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Tue Sep 17 11:33:39 2024 +0300
+
+    Merge pull request #13 from erotourtes/im-21
+    
+    feat(im21): Max Siryk
+
+commit 381f4a0a5f2cc253ac0c85018740b79368ed1ce8
+Author: hasslesstech <hasslesstech@tutanota.com>
+Date:   Mon Sep 16 17:46:26 2024 +0300
+
+    add record to io23 group file
+
+commit 374f3552dd4e932eec58a700bf6ae845a4e2c1dd
+Merge: 0fe1fb1 e5599e3
+Author: rhinemann <andreyfrog26@gmail.com>
+Date:   Mon Sep 16 12:43:13 2024 +0300
+
+    Merge branch 'main' of github.com:denys-ko/softwareDevelopmentTechLog
+    Merging different group files.
+
+commit 0fe1fb1c7010fd1d59cf5d78fa4938bde0bed057
+Author: rhinemann <andreyfrog26@gmail.com>
+Date:   Mon Sep 16 12:42:04 2024 +0300
+
+    Šved Andrij, created io23.txt
+
+commit e5599e3c66a5cb48f01efcc6f09b8c0dd00f1e2d
+Author: VladiusVostokus <kovalenkov222@gmail.com>
+Date:   Mon Sep 16 12:27:36 2024 +0300
+
+    Kovalenko IM-24
+
+commit 6e2d30d8bc71d5b7424f78002188ed19f0b2dd13
+Merge: 5f19759 6f6c895
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Mon Sep 16 12:11:36 2024 +0300
+
+    Merge pull request #10 from YehorCringe/main
+    
+    Create ia13.txt
+
+commit 5f19759031a579bd2b447963be6569f0b11481d8
+Merge: cdb426d c13cb8a
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Mon Sep 16 12:02:53 2024 +0300
+
+    Merge pull request #12 from magicvegetable/branch
+    
+    Added info about myself
+
+commit c13cb8a466b980e4e2d8d41f5067264ece6dbb07
+Author: magicvegetable <maaagicvegetable@gmail.com>
+Date:   Sat Sep 14 13:51:16 2024 +0300
+
+    added info about myself to im22.txt
+
+commit dec7e8f8f8918c68bfbebb6ff9c0cf7073035897
+Author: erotourtes <erotourtes@gmail.com>
+Date:   Sat Sep 14 10:07:21 2024 +0300
+
+    feat(im21): Max Siryk
+
+commit cdb426d75dd07021bbf0aefd0395266a7fc0772e
+Author: Denys Kondratenko <denys.kondratenko@globallogic.com>
+Date:   Thu Apr 18 16:27:03 2024 +0300
+
+    Sample commit to check that git is working as expected
+    
+    Signed-off-by: Denys Kondratenko <denys.kondratenko@globallogic.com>
+
+commit ba466e0683c5282436af063280e3ebc8f72ddc5f
+Author: Denys Kondratenko <denys.kondratenko@globallogic.com>
+Date:   Tue Feb 20 15:07:46 2024 +0200
+
+    Nothing important changed
+    
+    Signed-off-by: Denys Kondratenko <denys.kondratenko@globallogic.com>
+
+commit 6f6c895f2c02b1f63a0ee392e6df34da47e980b5
+Author: YehorCringe <134858239+YehorCringe@users.noreply.github.com>
+Date:   Sat Jan 6 17:59:38 2024 +0200
+
+    Create ia13.txt
+
+commit 2b27fab7640e5d78af47a37d0ba174ca7a85edf4
+Author: K053AP <4026sasha@gmail.com>
+Date:   Thu Dec 28 21:32:03 2023 +0200
+
+    Added information about student Tkachenko Oleksandr of group IO-11
+    
+    Signed-off-by: K053AP <4026sasha@gmail.com>
+
+commit 78523388379377b282dae0876ee44e51819a7ade
+Author: Vlod <nopof0201info@gmail.com>
+Date:   Wed Nov 22 16:17:11 2023 +0200
+
+    done
+
+commit 52061cc2a18a6c0aff405ed2e450351fca95d5cf
+Author: Ihor <igor-kpi@ukr.net>
+Date:   Wed Nov 22 16:06:39 2023 +0200
+
+    Ihor Stuzhuk IO-12
+
+commit b245a221afd3fd399debfd51786f5ecfb918a3d2
+Author: Dmytro Klymchuk <dima.klimchuk.2016@gmail.com>
+Date:   Sat Nov 4 18:11:14 2023 +0200
+
+    Editing the file io-12
+
+commit 91a66caafc48f8644b9f825ba80e352e585ac3f4
+Author: unknown <alex.topchiy7@gmail.com>
+Date:   Wed Nov 1 22:16:45 2023 +0200
+
+    Test commit
+
+commit c3acb956f246a947ae31cf440ba585062d3c6775
+Author: Oleksii Maksymenko <alexey.maximenko@ukr.net>
+Date:   Sat Oct 21 23:35:11 2023 +0300
+
+    Added my info to io12.txt
+
+commit 0654449e300ce7d0603ad3ba20b7a97d9c24f706
+Author: Hlib Shyn <gshin907@gmail.com>
+Date:   Fri Oct 20 20:08:42 2023 +0300
+
+    add hlib shyn's info in io13.txt
+    
+    Signed-off-by: Hlib Shyn <gshin907@gmail.com>
+
+commit 59cd958aa1c7ce2e551d6bae19cb9e251ca99ca6
+Author: Alina <91843875+aljolen@users.noreply.github.com>
+Date:   Thu Oct 19 15:33:40 2023 +0200
+
+    Added information adout student Alina Baryninaof group IO-13
+
+commit 6d5ac0ce7579473286170c3672f46954ba2a1cfd
+Author: Nastya Sira <sira.anastasia@gmail.com>
+Date:   Mon Oct 16 23:05:59 2023 +0300
+
+    Added information adout student Sira Anastasia of group IO-15
+    
+    Signed-off-by: Nastya Sira <sira.anastasia@gmail.com>
+
+commit 4735ae696572181ac51de2f03f2a0af50285e2fa
+Author: lubomil <127290600+lubomil@users.noreply.github.com>
+Date:   Mon Oct 16 15:42:32 2023 +0300
+
+    Added information about student Lubomur Yasinsky of group IO-13
+    
+    Signed-off-by: lubomil <127290600+lubomil@users.noreply.github.com>
+
+commit 6da610190b24b5a7a4b2eb9571594bc1541c4b83
+Author: al-MU-rt <anton25348@gmail.com>
+Date:   Mon Oct 16 15:23:38 2023 +0300
+
+    Added information about student Hrusha Anton of group IO-13
+    
+    Signed-off-by: al-MU-rt <anton25348@gmail.com>
+
+commit f14e29c67bd191c52b2654837633e69ba56b74f0
+Author: Vladosichek <90644299+Vladosichek@users.noreply.github.com>
+Date:   Mon Oct 16 12:56:28 2023 +0300
+
+    IP-11 Vladyslav Pryshchepa
+
+commit ef8a470f30b6e8b3dab445f3b90f14f7fc41cb95
+Author: Djekichoid <ponomarchuck.evgenyi@gmail.com>
+Date:   Sat Oct 14 16:32:39 2023 +0300
+
+    Added information about student Yevhenii Ponomarchuk
+
+commit 2436989860ddf8f9aafee778d1badcc66da4be72
+Author: Ilya <ilyaperetyat@gmail.com>
+Date:   Fri Oct 13 17:20:54 2023 +0300
+
+    Peretiatko added to list
+
+commit 1d1d0653d8d0cc86670060ee94c8f28639dfcb30
+Merge: 852dbc8 57e1277
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Fri Oct 13 13:44:55 2023 +0300
+
+    Merge pull request #9 from Reflectia/main
+    
+    Modify ik11 file by Nadiia Kachurynets
+
+commit 57e1277f427893d513fb73a7c7646a9e586b4d69
+Author: Nadiia <nade4ka3@gmail.com>
+Date:   Fri Oct 13 12:59:50 2023 +0300
+
+    Modify ik11 file by Nadiia Kachurynets
+
+commit 852dbc81045b96d6a4fe6f6a609e1888e702d722
+Author: Yulia Mikhaylenko <yuliamikhaylenko@ukr.net>
+Date:   Thu Oct 12 00:19:04 2023 +0300
+
+    Added information about student Yulia Mikhaylenko of group IO-13
+    Signed-off-by: Yulia Mikhaylenko <yuliamikhaylenko@ukr.net>
+
+commit 2fff3ac2511f10aad43fc311ca1b3d94e2365ef6
+Author: Taras Vytvytskyi <tarasvytvytskyy@gmail.com>
+Date:   Tue Oct 10 12:30:29 2023 +0300
+
+    Hello, Curel world v2
+    Sorted students by order in group
+    
+    Signed-off-by: Taras Vytvytskyi <tarasvytvytskyy@gmail.com>
+
+commit 39e7bc1a71a500f2ba266f57fc872ce1ce2a467a
+Author: Taras Vytvytskyi <tarasvytvytskyy@gmail.com>
+Date:   Tue Oct 10 12:13:48 2023 +0300
+
+    Hello, Cruel world!
+    
+    Signed-off-by: Taras Vytvytskyi <tarasvytvytskyy@gmail.com>
+
+commit bb6d187ee564527e0aab58f99ad86a53e70e9aad
+Author: karakurtz <tsybulenkobohdan@gmail.com>
+Date:   Mon Oct 9 23:33:04 2023 +0300
+
+    Added myself to the corresponding group
+
+commit a567141e7b5f1464771ceb449a5e97af38d4805b
+Author: Юлия Гудыма <gudyma.yullia@gmail.com>
+Date:   Sun Oct 8 21:26:57 2023 +0200
+
+    making changes to the file
+
+commit c699945dcddc9adf8ea0d382ca14871577794014
+Author: Юлия Гудыма <gudyma.yullia@gmail.com>
+Date:   Sun Oct 8 17:04:45 2023 +0200
+
+    Added new group ik13
+
+commit 0dfe2a56e8ad4c3bcd9fa90b434da6760056df1a
+Author: Anton <vorobiov.anton@lll.kpi.ua>
+Date:   Tue Oct 3 20:16:29 2023 +0300
+
+    docs: Added information about student Vorobiov Anton of group IO-12
+
+commit 37788f068acef1ebd9e3d648af95ded43a5a043e
+Author: Anton <vorobiov.anton@lll.kpi.ua>
+Date:   Tue Oct 3 20:16:10 2023 +0300
+
+    revert
+
+commit a29528a0a20e59072d4fdba1b9c53303e0e3705f
+Author: Anton Vorobiov <vorobiov.anton@icloud.com>
+Date:   Tue Oct 3 20:15:04 2023 +0300
+
+    docs: Added information about student Vorobiov Anton of group IO-12
+
+commit c968d6e9bd493b4bade3d771d8d838b6cb8bae3a
+Merge: dfd6fd0 abebfbe
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Tue Oct 3 10:36:26 2023 +0300
+
+    Merge pull request #8 from NgeNXQ/main
+    
+    Added ip14.txt
+
+commit abebfbe5106c1cb081b0d72f1b89a3635515aca0
+Author: Denys Babich <89969565+NgeNXQ@users.noreply.github.com>
+Date:   Tue Oct 3 02:01:20 2023 +0300
+
+    Added ip14.txt
+    
+    Signed-off-by: Denys Babich <89969565+NgeNXQ@users.noreply.github.com>
+
+commit dfd6fd070f9af685a4d09053d4a4dbcefb7d930a
+Merge: 67164a1 890a6de
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Mon Oct 2 15:21:12 2023 +0300
+
+    Merge pull request #7 from anastasia555555/main
+    
+    Adds record of IK-11 Kaliuzhna Anastasia
+
+commit 890a6de763d6fe9d4d8fc1f844484186b8bb7d54
+Author: Anastasia Kaliuzhna <kaluznaanastasia@gmail.com>
+Date:   Mon Oct 2 14:35:20 2023 +0300
+
+    Adds record of IK-11 Kaliuzhna Anastasia
+
+commit 67164a1645c153467ddb4b3befc8ae047ca28544
+Author: Ivan Maruzhenko <ivanmaruzhenko@gmail.com>
+Date:   Fri Sep 29 23:39:22 2023 +0300
+
+    Added information about student Maruzhenko Ivan of group IO-13
+
+commit 114996a78644ece0ad67205edda521402913ced4
+Author: Ivan Skorobagatko <ivanskorobagatko@gmail.com>
+Date:   Fri Sep 29 22:17:41 2023 +0200
+
+    Added information about student Skorobagatko Ivan of group IO-13
+
+commit e6e5913999dc223b0ad9c031a485e871848e8c9c
+Author: Kosya15 <hrumak15@gmail.com>
+Date:   Fri Sep 29 19:47:11 2023 +0300
+
+    Added information about student Osypenko Kostyantyn of group IO-13
+    
+    Signed-off-by: Kosya15 <hrumak15@gmail.com>
+
+commit 02573c3b47688f50fdef179167110b981c83e650
+Author: kiIIer <39669501+kiIIer@users.noreply.github.com>
+Date:   Thu Sep 28 22:04:26 2023 +0300
+
+    Ai/12/mike (#6)
+    
+    * add ds_store to gitignore
+    
+    * add myself to ia12 file
+
+commit 0660024e48e9e42addd24933603cd404dfb18177
+Author: unknown <vad@vadstarovoitov@gmail.com>
+Date:   Thu Sep 28 16:17:00 2023 +0300
+
+    new record added to ia-11
+
+commit 36fcb5f8544962c1c16858017e54c7f86fe8c64e
+Author: Antonio <98595473+tonujet@users.noreply.github.com>
+Date:   Thu Sep 28 00:03:54 2023 +0300
+
+    Add new record to IA-11
+
+commit 79becfda09a2f5d4477efefa3febee5f6c060a3a
+Author: Mila <gorbunova.milasha@gmail.com>
+Date:   Wed Sep 27 15:01:55 2023 +0300
+
+    new record about IM-12 group
+
+commit 04354bb11e99d410d33db640652092038aa9f6c8
+Author: Artem Kushch <artemkusch2@gmail.com>
+Date:   Wed Sep 27 00:07:07 2023 +0300
+
+    Add info about new student in the IM-13 group
+
+commit 004adeb804b46be4aba66d77ddc5d7bff5ad2e0a
+Author: Anastasiia Tsurkan <nastianegrienko@gmail.com>
+Date:   Sun Sep 24 20:13:46 2023 +0300
+
+    IP-11 Anastasiia Tsurkan
+
+commit 447dbcccf99de7d4ebb4d5cbc7dbb382c68b32ce
+Author: sideshowbobgot <sideshowbobgot@gmail.com>
+Date:   Sat Sep 23 21:50:22 2023 +0300
+
+    IP-11 Serhii Panchenko
+
+commit da07af659b16407c8020f5cb5e07fb80fc53ec11
+Author: MytsV <mytsvictoria@gmail.com>
+Date:   Sat Sep 23 13:41:38 2023 +0200
+
+    List a new student in the IM-12 group
+
+commit 111ddf0b7d0b6cf706e838d042d6564b9f04a776
+Author: vetshem <vetshem69@gmail.com>
+Date:   Fri Sep 22 22:58:06 2023 +0300
+
+    Pax Romana
+
+commit 3451b84e95703df93523024e698435e0097f2545
+Merge: c12986a 4107fae
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Fri Sep 22 21:10:31 2023 +0300
+
+    Merge pull request #5 from ChVictoria/main
+    
+    add information about Chernoivanenko Viktoriia
+
+commit 4107fae8f06d9104aec40bf0e9ee59ea74bc895a
+Author: ChVictoria <butterflylight01@gmail.com>
+Date:   Fri Sep 22 18:43:10 2023 +0300
+
+    add information about Chernoivanenko Viktoriia
+
+commit c12986a0a1fc34f5a79369c9ed6bc9e99241da87
+Author: Shemchuk Vitaliy <vetshem69@gmail.com>
+Date:   Fri Sep 22 17:42:32 2023 +0300
+
+    Added personal data to the profile
+
+commit 58f5d285e2253419feba26055bc38ff2b880fdfb
+Author: Denys Kondratenko <denys.kondratenko@globallogic.com>
+Date:   Fri Sep 15 17:02:10 2023 +0300
+
+    Add new groups to the project
+
+commit 6debdfbe6c2072f94232ee5f197d22d51d6fd544
+Author: JackDaniels9200 <70592048+JackDaniels9200@users.noreply.github.com>
+Date:   Mon Jan 16 11:34:38 2023 +0100
+
+    Update po11.txt
+
+commit 403b719c5c9099f189e9bbf025e7f6247b68b891
+Author: REKRU1 <ps240604@gmail.com>
+Date:   Sat Jan 14 22:08:07 2023 +0200
+
+    ДЗ-1
+
+commit 223d9558c90b6528c5b5dae2b2aa465551b249a7
+Author: VasilukMO <vasilukmefodij@gmail.com>
+Date:   Fri Jan 13 23:59:38 2023 +0200
+
+    Додаю студента групи ПО-11 Василюк Мефодія
+    
+    Signed-off-by: VasilukMO <vasilukmefodij@gmail.com>
+
+commit bdf509eb75d630e53683b9f3fab3e1cc059ee405
+Author: dimahlodan <dimahlodan@gmail.com>
+Date:   Mon Dec 5 09:27:48 2022 +0200
+
+    Додаємо студента групи ПО-11 Глодан Дмитро
+
+commit 7179f0c44552f94c921642373573deccae48c813
+Author: Denys Kondratenko <denys.kondratenko@globallogic.com>
+Date:   Tue Nov 29 17:45:35 2022 +0200
+
+    New file added to the project
+    
+    Signed-off-by: Denys Kondratenko <denys.kondratenko@globallogic.com>
+
+commit ae5d2660367cf02e8f49e031e6f66c23c33991ba
+Author: Yuri Zakharchenko <hawayura@gmail.com>
+Date:   Sun Nov 6 20:34:32 2022 +0200
+
+    Додаю студента групи ПО-11 Захарченко Юрія
+    
+    Signed-off-by: Yuri Zakharchenko <hawayura@gmail.com>
+
+commit 27b3daaadb3d8fd876595eaf607563960d0d397b
+Author: Olexii Repetskyi <alexisrepetskii@gmail.com>
+Date:   Sat Nov 5 18:03:40 2022 +0200
+
+    Додаю інформацію про студента #19
+
+commit e06257b62263b5afe8d7ed2b0d95f9a122310245
+Merge: 7d7ad76 f55cd5f
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Thu Nov 3 18:28:45 2022 +0200
+
+    Merge pull request #4 from ill1x/main
+    
+    Додаємо студента групи ПО-11 Антоненка Іллю
+
+commit f55cd5f955f6552a434d8cafd7688532c6f434d1
+Merge: d98b24b 7d7ad76
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Thu Nov 3 18:28:33 2022 +0200
+
+    Merge branch 'main' into main
+
+commit 7d7ad76afb40c71deef2ec9fa8971a55b3f3b8d4
+Merge: 1ee3fd4 9c5b14f
+Author: ill1x <iantonenko707@gmail.com>
+Date:   Sat Oct 29 02:27:26 2022 +0300
+
+    Merge branch 'main' of https://github.com/denys-ko/softwareDevelopmentTechLog
+
+commit 9c5b14f9593ab33fb235e413dfd2fde9c796e711
+Author: Roma Starynets <r85909229@gmail.com>
+Date:   Fri Oct 28 10:08:02 2022 +0300
+
+    I replaced the video
+
+commit 1bfadfff10e08b22ee5f2e4c425fdf392a3633f9
+Author: Surikat7567 <114401572+Surikat7567@users.noreply.github.com>
+Date:   Fri Oct 28 02:07:14 2022 +0300
+
+    Update po11.txt
+
+commit 2a3a773019a7709c8fa4e044f4e2c68f434c57d7
+Author: RaNchan148 <113901079+RaNchan148@users.noreply.github.com>
+Date:   Tue Oct 25 22:31:13 2022 +0300
+
+    Update po11.txt
+    
+    Додаю Старинця Романа
+
+commit 037bfabd3db482e5f5928f18837560aef59de32f
+Author: Userkev <kalnikkevin@gmail.com>
+Date:   Sun Oct 16 18:10:40 2022 +0300
+
+    є студента Кальник Кевін, група ПО-11
+
+commit 1ee3fd4cb7f8ff6f33748add952642df3cd9aa0f
+Merge: 46886b1 7bbd621
+Author: ill1x <iantonenko707@gmail.com>
+Date:   Fri Oct 14 12:52:19 2022 +0300
+
+    Merge branch 'main' of https://github.com/denys-ko/softwareDevelopmentTechLog
+
+commit 7bbd621e9d1c69029cdb242505306b63115ffad6
+Author: antohaoc <87820219+antohaoc@users.noreply.github.com>
+Date:   Fri Oct 14 11:25:19 2022 +0300
+
+    Update po11.txt
+
+commit 46886b164ea0b579f82ca15131a02ad871518276
+Author: ill1x <iantonenko707@gmail.com>
+Date:   Tue Oct 11 22:46:45 2022 +0300
+
+    Додаємо студента групи По-11 Антоненка Іллю
+
+commit c9d4412624859b542dec0d384366a2d9777dd8c9
+Author: ALexey_KO <harasorbest@gmail.com>
+Date:   Tue Oct 11 16:57:17 2022 +0300
+
+    Добавляємо стулента групи ПО-11 Конфалію Олексія
+    
+    Signed-off-by: ALexey_KO <harasorbest@gmail.com>
+
+commit d98b24ba95a74e346e1f381aca6ea18a709a4b0a
+Author: ill1x <iantonenko707@gmail.com>
+Date:   Mon Oct 10 22:26:12 2022 +0300
+
+    Додаємо студента групи ПО-11 Антоненка Іллю
+    
+    Добрий день)
+
+commit bfbee0cc320f0cd2355f8c0a06802fc12c662a44
+Author: KorshakPO-11 <dima.korshak.04@gmail.com>
+Date:   Mon Oct 10 13:45:51 2022 +0200
+
+    //===================================================
+    Номер за списком: 11
+    Прізвище: Коршак
+    Ім'я: Дмитро
+    Ютуб ролик який мені довподоби: https://www.youtube.com/watch?v=s-tullof0T0
+    //===================================================
+    
+    Signed-off-by: KorshakPO-11 <dima.korshak.04@gmail.com>
+
+commit a9d3aa7c2937edc6b6d48c674558842b7eb36f75
+Author: PetrenkoYevhenii <petrenkoevgen02@gmail.com>
+Date:   Sun Oct 9 19:20:55 2022 +0300
+
+    Додаємо студента групи ПО-11 Петренка Євгенія
+    
+    Signed-off-by: PetrenkoYevhenii <petrenkoevgen02@gmail.com>
+
+commit 5f853c8e7e4b15a1f5ea65c45a1e90e7363976ed
+Author: Maxim <malyuitenko@gmail.com>
+Date:   Sun Oct 9 14:08:40 2022 +0300
+
+    Додаємо студента групи ПО-11 Малютенко Максим
+    
+    Signed-off-by: Maxim <malyuitenko@gmail.com>
+
+commit c5252049877ac8b445b1491696fb6d2fe2861733
+Author: ddianessa <113899407+ddianessa@users.noreply.github.com>
+Date:   Fri Oct 7 08:29:58 2022 +0300
+
+    Update po11.txt
+
+commit 233bc7c35288a8680ec1859b152382e0e6ac37bb
+Author: Dast1n0k <dimabenders2@gmail.com>
+Date:   Wed Oct 5 11:47:49 2022 +0300
+
+    Додаємо студента групи ПО-11 Судницин Дмитро
+
+commit fd4a660509b668bf427c92dbe7eaa4369436ca66
+Author: Serheev Serhiy <sea.s0lt.03@gmail.com>
+Date:   Wed Oct 5 11:27:50 2022 +0300
+
+    Serheev додав себе у список
+
+commit 0f5861ef0308725421c7d4eaa7967c39c6edc2dc
+Merge: bd36d41 7097ee0
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Mon Oct 3 13:57:30 2022 +0300
+
+    Merge branch 'main' of https://github.com/denys-ko/softwareDevelopmentTechLog
+
+commit 7097ee08226ad11fca3d96195b5a48ccad6ca59a
+Author: mikiteo <n.biriuk.po11@kpi.ua>
+Date:   Mon Oct 3 13:07:18 2022 +0300
+
+    Додаємо студента групи ПО-11 Бірюк Нікіта
+    
+    Signed-off-by: mikiteo <n.biriuk.po11@kpi.ua>
+
+commit cce74466698838570cd8c2fe4ade613394be4a5c
+Author: 2minipig2 <109391433+2minipig2@users.noreply.github.com>
+Date:   Mon Sep 26 20:47:19 2022 +0300
+
+    Додаємо інформацію для студента групи ПО-11 Мельника Миколи
+
+commit bd36d410959e76c13ee8edb421e9055dced0db28
+Author: mikiteo <n.biriuk.po11@kpi.ua>
+Date:   Mon Oct 3 12:31:39 2022 +0300
+
+    Добавляємо файл для групи ПО-11
+    
+    Signed-off-by: mikiteo <n.biriuk.po11@kpi.ua>
+
+commit 5271e83a773edda8e550524c283940fe3971bf77
+Author: 2minipig2 <109391433+2minipig2@users.noreply.github.com>
+Date:   Mon Sep 26 20:47:19 2022 +0300
+
+    Information
+
+commit 6cbd6bb4ebeaf5a064ffcbfa2810a2329d09b906
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Mon Sep 26 13:34:41 2022 +0300
+
+    Добавляемо файл для групи ПО-11
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit 127c3df99903acdf52c091b5be7776de815d489a
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Wed Feb 23 09:22:49 2022 +0200
+
+    Add new file for the new group PO-91
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit 98100d1a70bc33f4bf83d5adbe8b9d24e52a2ae2
+Author: Volodymyr Kuzmenko <kuzmenko.vladimir22@gmail.com>
+Date:   Wed Jan 5 17:30:22 2022 +0200
+
+    added some new lines
+
+commit 670c3da37e86bb25e2f53bbab29f23fea728d7e8
+Author: Zver <vadimtudose2104@gmail.com>
+Date:   Wed Dec 29 10:57:36 2021 +0200
+
+    Vadim Tudose 1234
+    
+    Signed-off-by: Zver <vadimtudose2104@gmail.com>
+
+commit 433bfc330b03572d82ec49cad1518923483e608d
+Author: Alexandra Kukhtina <hitechnic7341392@gmail.com>
+Date:   Tue Dec 28 15:19:01 2021 +0200
+
+    Test commit to show git functionality
+    
+    Signed-off-by: Alexandra Kukhtina <hitechnic7341392@gmail.com>
+
+commit b504d45974893f7e892ea385a433c35ebddd4af2
+Author: microfox03 <mshmelova@gmail.com>
+Date:   Sun Nov 7 21:35:41 2021 +0200
+
+    lab3
+    
+    Signed-off-by: microfox03 <mshmelova@gmail.com>
+
+commit 6e07c714c32e8b92d445d63a667874107232ef1a
+Author: Yurii Popov <yuriypopov678@gmail.com>
+Date:   Wed Oct 27 21:02:21 2021 +0300
+
+    My test commit
+
+commit 38df0f44a886a1a63b588ae10a3b4ac0ed9023b5
+Author: karinaiziurova <karishaiziurova@gmail.com>
+Date:   Wed Oct 20 10:45:13 2021 +0300
+
+    ya ustala
+    
+    Signed-off-by: karinaiziurova <karishaiziurova@gmail.com>
+
+commit b451ec64697f71dc39bc4f555d20c6c539f674ec
+Author: Nikita <shtanichev17@gmail.com>
+Date:   Wed Oct 20 01:08:35 2021 +0300
+
+    Add commit by Shtanichev
+    
+    Signed-off-by: Nikita <shtanichev17@gmail.com>
+
+commit 00a104d0bce39c74de329df594f06cabb94adf2a
+Author: Руслан Арендарчук <arendarchukgit@gmail.com>
+Date:   Wed Oct 20 00:09:01 2021 +0300
+
+    Test commit
+    
+    Signed-off-by: Руслан Арендарчук <arendarchukgit@gmail.com>
+
+commit 077ce0c877e373a566c0ec4b19a2150c09d76d7f
+Author: Alina SX <alinasahnuk5@gmail.com>
+Date:   Tue Oct 19 22:33:58 2021 +0300
+
+    Test commit
+    
+    Signed-off-by: Alina SX <alinasahnuk5@gmail.com>
+
+commit 45296f9e6b2c9ad5ff7b4c68c9ad34fd2ba7005b
+Author: KarinaVahrani1806 <karynavahrani@gmail.com>
+Date:   Tue Oct 19 21:37:29 2021 +0300
+
+    test git commit
+
+commit dc9a55929c40d13186e18ed4f686bdda3d698621
+Author: alex-pasechnik <pasechnik.x.5@gmail.com>
+Date:   Tue Oct 19 18:00:27 2021 +0300
+
+    lesss gooo
+
+commit 7f356829b641211d897a8c2f916275fec27fa61c
+Merge: e7509d0 4e9a8e0
+Author: Богдан Волощук <volosb9@gmail.com>
+Date:   Tue Oct 19 15:40:08 2021 +0300
+
+    Add video
+
+commit 4e9a8e05fb8bf4e17fee4fe49377ee21ddd049f9
+Author: NiKs4s <sashasulima3@gmail.com>
+Date:   Tue Oct 19 15:02:21 2021 +0300
+
+    Ispavlenie oshibki, to est menya
+    
+    Signed-off-by: NiKs4s <sashasulima3@gmail.com>
+
+commit e3891c1fc7651312e4eb57b464b2774511c94e55
+Merge: 2831193 0490747
+Author: NiKs4s <sashasulima3@gmail.com>
+Date:   Tue Oct 19 14:56:23 2021 +0300
+
+    Merge branch 'main' of https://github.com/denys-ko/softwareDevelopmentTechLog
+    Лаб которую делаю уже неделю
+    Signed-off-by: NiKs4s <sashasulima3@gmail.com>
+
+commit 0490747dd0bcdf03a77274c89a7e82ed29b25626
+Author: Starushyk Vadym <starushykvadym@gmail.com>
+Date:   Tue Oct 19 14:38:19 2021 +0300
+
+    My commiiiit
+    
+    Signed-off-by: Starushyk Vadym <starushykvadym@gmail.com>
+
+commit 28311939f3e330bca52349f6f3d8850d8b861a1b
+Author: NiKs4s <sashasulima3@gmail.com>
+Date:   Tue Oct 19 14:27:35 2021 +0300
+
+    Lab 1
+    
+    Signed-off-by: NiKs4s <sashasulima3@gmail.com>
+
+commit e7509d012b30434e3795dbaa2541b5a88b6165c5
+Author: Богдан Волощук <volosb9@gmail.com>
+Date:   Tue Oct 19 13:17:57 2021 +0300
+
+    Add video
+    
+    Signed-off-by: Богдан Волощук <volosb9@gmail.com>
+
+commit 981ca05f27563da440c470bcc98caf02627cb881
+Author: Vasechko Stepan <vaseckostepan@gmail.com>
+Date:   Mon Oct 18 21:35:17 2021 +0300
+
+    my comment lol
+
+commit edd0a23654a45ea94cb0b81313efa8121e9b703b
+Author: 72kisel <annabreak4862@gmail.com>
+Date:   Mon Oct 18 17:35:15 2021 +0300
+
+    Yeah
+
+commit 26113dc5ccc573f77eaa3305c4f481e31e6a5bfb
+Author: Sarkacell <mentersleyt@gmail.com>
+Date:   Mon Oct 18 00:24:57 2021 +0300
+
+    Commit type - Tired
+
+commit 2fbcc4145a4af2950818f69cb3934f1c919ded14
+Author: Roman Gubiychuk <roma2003gub@gmail.com>
+Date:   Sun Oct 17 20:11:52 2021 +0300
+
+    Test commit
+    
+    Signed-off-by: Roman Gubiychuk <roma2003gub@gmail.com>
+
+commit c07e48b3157b331545d8ff5333a65f338b097edf
+Author: vtotskaya <totskayavictoria@gmail.com>
+Date:   Sat Oct 16 20:54:24 2021 +0300
+
+    test commit
+
+commit 73c3ff84c43f67b89e5e3959ad46b309d92fde86
+Merge: 71e3a1c 1b24641
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Fri Oct 15 19:05:08 2021 +0300
+
+    Merge pull request #2 from Glebap/main
+    
+    my commit kek
+
+commit 1b24641ff89a2c9e42aa13154699a52ae132633c
+Author: hcernij@gmail.com <hcernij@gmail.com>
+Date:   Fri Oct 15 11:51:00 2021 +0300
+
+    my comment kek
+    
+    Signed-off-by: hcernij@gmail.com <hcernij@gmail.com>
+
+commit 71e3a1cef6ed2dbf778dbc38bf49f98c3888d7a1
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Wed Oct 6 10:56:42 2021 +0300
+
+    Test commit to show git functionality
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit 5dd0346e1caacacc7427daf95831a7d509101da2
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Tue Oct 5 23:30:38 2021 +0300
+
+    Add new file for po01 group
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit c06ed69e93f3dd9aebe2381f53e0041bc8970b96
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Mon Sep 13 17:51:43 2021 +0300
+
+    This is sample test commit
+    
+    Wrong student name removed.
+
+commit 0310d2b7cb139b5f0e4d3fd65311147806f1114f
+Author: sopharidze <79316068+sopharidze@users.noreply.github.com>
+Date:   Mon May 24 14:02:53 2021 +0300
+
+    This is my commit message
+
+commit bcb65b6ba0fd2f65686debd384ba120f43effe57
+Author: MineRock1 <glav.alex2018@gmail.com>
+Date:   Wed May 19 09:53:15 2021 +0300
+
+    Funny
+
+commit a368981c1b4cf3494c2c0fe34ccaddbb29b6ef46
+Author: Ulianov-Oleksii <Ulianov-Oleksii@users.noreply.github.com>
+Date:   Tue May 18 23:35:30 2021 +0300
+
+    my commit message
+
+commit f6a760c047ef06527f5966d538b82f96ce9e3e5b
+Author: Michael <xmichelfedererx@gmail.com>
+Date:   Tue May 18 20:49:58 2021 +0300
+
+    This is my commit message
+
+commit dec77599921841bdcc90e1bf797a571009fe74d1
+Author: thereau <84272639+thereau@users.noreply.github.com>
+Date:   Mon May 17 11:24:25 2021 +0300
+
+    Update po81.txt
+
+commit bbef855008a33a519199d71568d26f50b305fd60
+Author: Alexandr Nevmerzhitskiy <80844055+muteurdream@users.noreply.github.com>
+Date:   Mon May 17 11:10:38 2021 +0300
+
+    Update po81.txt
+
+commit f78d011265e8d9f4f9fc95ede5881df423ddc934
+Author: Michael <64799584+Michael-not@users.noreply.github.com>
+Date:   Thu May 13 10:42:17 2021 +0300
+
+    Update po81.txt
+
+commit 5339a5e48bd647b19593facd318662d9a10bc30b
+Author: LandMco <max_gh1@ukr.net>
+Date:   Wed May 12 13:39:18 2021 +0300
+
+    Add to list Levchuk Max from po-81
+
+commit 40af34e072f26be7f5ad7013737c25dfa8be5419
+Author: ilyakhranovskiy <82034943+ilyakhranovskiy@users.noreply.github.com>
+Date:   Tue Apr 20 20:18:53 2021 +0300
+
+    Update po81.txt
+
+commit ec2a12cbebd32f95a9e7e61f72f8eabab7a78cd3
+Merge: 972a1e0 e5623d9
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Tue Apr 20 14:36:32 2021 +0300
+
+    Merge pull request #1 from lavolpenoire/volpe
+    
+    Batii- done
+
+commit e5623d975ba1370925c534db8f6c7eb4e99e0779
+Author: U-VOLPEPC\Aleksandr <lavolpenoire@gmail.com>
+Date:   Tue Apr 20 11:58:28 2021 +0300
+
+    Batii- done?
+
+commit 972a1e01b8bc58f49ea2c4a7bebd89c5df7782de
+Author: Roman Vihristiuk <45902869+ramzes667@users.noreply.github.com>
+Date:   Thu Apr 8 11:32:38 2021 +0300
+
+    Update po81.txt
+    
+    Add my comm
+
+commit 17b2bcec24c430651093ec2790fad0a8f10bcca7
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Thu Apr 8 11:25:56 2021 +0300
+
+    Restore original template for message
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit 52ecf31b037ef8fbb2aefe11ce23cafa6930cd30
+Author: Artem Romanchuk <78590634+BraveHeartBanana@users.noreply.github.com>
+Date:   Wed Apr 7 20:30:59 2021 +0300
+
+    Update po81.txt
+
+commit 049500dd487b7d9ed0a36217fe1c90528677a5d1
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Mon Mar 29 19:37:00 2021 +0300
+
+    Initial version
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit 7bfd9f087da4da2ed9fd3b8574ef153ae1f14bbf
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Mon Mar 29 19:18:12 2021 +0300
+
+    Update README.md
+
+commit 11f46e88737f5d2bb386bdf0ce4a8ba0b233ac92
+Author: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+Date:   Thu Mar 18 08:58:53 2021 +0200
+
+    This is first test commit for new repo
+    
+    Signed-off-by: Denis Kondratenko <kondratenko.denys@lll.kpi.ua>
+
+commit a2f84f57140242bfd7a373c1def48169b69fd078
+Author: denys-ko <80855139+denys-ko@users.noreply.github.com>
+Date:   Thu Mar 18 08:44:50 2021 +0200
+
+    Initial commit
